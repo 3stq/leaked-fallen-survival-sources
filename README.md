@@ -26,3 +26,5 @@ not everything is complete
 some of it is messy or outdated
 
 dont expect clean code or anything polished
+
+any of the original developers/creators can dm me for a removal of your source at @3stq0 on discord
